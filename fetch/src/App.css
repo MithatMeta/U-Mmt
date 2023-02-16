@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  color: aliceblue;
+}
+
+
+.loading {
+  text-align: center; 
+  color:red;
+  align-items: center;
+  min-height: 100vh;
+
+}
